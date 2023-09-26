@@ -1,0 +1,8 @@
+# Ignorar diretórios e arquivos ocultos
+.*
+
+# Ignorar arquivos executáveis
+*.exe
+
+# Exceções
+!.gitignore
